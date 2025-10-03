@@ -25,6 +25,6 @@
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ianbenia14/)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/ianbenia14/](https://www.linkedin.com/in/ian-benia-0b9b15338/))  
 - 📧 [Email](mailto:ianbenia03@gmail.com)  
 - 📸 [Instagram](https://www.instagram.com/ianbenia)  
