@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Ian! ![Brasil](https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg)
+# 👋 Olá, meu nome é Ian! <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="24"/>
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor em aprendizado constante  
 
