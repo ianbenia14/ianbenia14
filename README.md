@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Ian!
+# 👋 Olá, meu nome é Ian! 🇧🇷
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor em aprendizado constante  
 
@@ -26,4 +26,5 @@
 
 ## 📫 Contato
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ianbenia14/)  
-- 🌐 [Portfolio](https://ianbenia14.github.io/)
+- 📧 [Email](mailto:ianbenia03@gmail.com)  
+- 📸 [Instagram](https://www.instagram.com/ianbenia)  
